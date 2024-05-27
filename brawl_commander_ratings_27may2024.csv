@@ -1,0 +1,548 @@
+id,name,expansion,weight
+67518,"Teferi, Hero of Dominaria",DOM,"1,800"
+68665,"Tajic, Legion's Edge",GRN,"1,800"
+69451,"Teferi, Hero of Dominaria",DOM,"1,800"
+69620,"Nissa, Who Shakes the World",WAR,"1,800"
+70294,"Torbran, Thane of Red Fell",ELD,"1,800"
+71259,"Kinnan, Bonder Prodigy",IKO,"1,800"
+75185,"Magda, Brazen Outlaw",KHM,"1,800"
+75215,"Fynn, the Fangbearer",KHM,"1,800"
+75620,"Baral, Chief of Compliance",KLR,"1,800"
+76172,"Sythis, Harvest's Hand",MH2,"1,800"
+78322,"Adeline, Resplendent Cathar",MID,"1,800"
+78612,"Teferi, Who Slows the Sunset",MID,"1,800"
+79445,"Light-Paws, Emperor's Voice",NEO,"1,800"
+80364,"Raffine, Scheming Seer",SNC,"1,800"
+84191,"Rusko, Clockmaker",Y23,"1,800"
+85082,"Calix, Guided by Fate",MAT,"1,800"
+85526,"Baral, Chief of Compliance",MUL,"1,800"
+85539,"Ragavan, Nimble Pilferer",MUL,"1,800"
+85544,"Fynn, the Fangbearer",MUL,"1,800"
+86435,Geist of Saint Traft,SIS,"1,800"
+69656,"Nicol Bolas, Dragon-God",WAR,"1,440"
+69657,Niv-Mizzet Reborn,WAR,"1,440"
+69670,"Teferi, Time Raveler",WAR,"1,440"
+69683,"Kiora, Behemoth Beckoner",WAR,"1,440"
+70011,"Golos, Tireless Pilgrim",M20,"1,440"
+70190,"Emry, Lurker of the Loch",ELD,"1,440"
+70719,"Ashiok, Nightmare Muse",THB,"1,440"
+70740,"Uro, Titan of Nature's Wrath",THB,"1,440"
+71248,"Chevill, Bane of Monsters",IKO,"1,440"
+71283,"Winota, Joiner of Forces",IKO,"1,440"
+72491,"Selvala, Heart of the Wilds",JMP,"1,440"
+75212,"Esika, God of the Tree",KHM,"1,440"
+75265,Kaya the Inexorable,KHM,"1,440"
+76597,Galazeth Prismari,STX,"1,440"
+77133,Oswald Fiddlebender,AFR,"1,440"
+78852,"Jacob Hauken, Inspector",VOW,"1,440"
+79665,Kaito Shizuki,NEO,"1,440"
+81199,"A-Teferi, Time Raveler",WAR,"1,440"
+81286,"Tasha, Unholy Archmage",HBG,"1,440"
+82149,Liliana of the Veil,DMU,"1,440"
+82159,"Sheoldred, the Apocalypse",DMU,"1,440"
+82251,Ertai Resurrected,DMU,"1,440"
+83474,"A-Winota, Joiner of Forces",IKO,"1,440"
+83896,"Atraxa, Grand Unifier",ONE,"1,440"
+85527,"Emry, Lurker of the Loch",MUL,"1,440"
+85571,Niv-Mizzet Reborn,MUL,"1,440"
+87204,"Malcolm, Alluring Scoundrel",LCI,"1,440"
+14717,Captain Sisay,INV,"1,080"
+44125,Griselbrand,AVR,"1,080"
+49077,"Talrand, Sky Summoner",M13,"1,080"
+69313,"Judith, the Scourge Diva",RNA,"1,080"
+69323,Prime Speaker Vannifar,RNA,"1,080"
+69588,"Krenko, Tin Street Kingpin",WAR,"1,080"
+71192,"Lukka, Coppercoat Outcast",IKO,"1,080"
+71262,Narset of the Ancient Way,IKO,"1,080"
+71457,"Yawgmoth, Thran Physician",MH1,"1,080"
+72127,"Muxus, Goblin Grandee",JMP,"1,080"
+72243,"Talrand, Sky Summoner",JMP,"1,080"
+72401,"Krenko, Mob Boss",JMP,"1,080"
+73995,Rhonas the Indomitable,AKR,"1,080"
+75152,"Tergrid, God of Fright",KHM,"1,080"
+79061,"Halana and Alena, Partners",VOW,"1,080"
+79295,Marrow-Gnawer,J21,"1,080"
+82248,"Balmor, Battlemage Captain",DMU,"1,080"
+82255,"Jodah, the Unifier",DMU,"1,080"
+82619,"Feldon, Ronom Excavator",BRO,"1,080"
+83904,"Kaito, Dancing Shadow",ONE,"1,080"
+85563,"Judith, the Scourge Diva",MUL,"1,080"
+86164,"Liliana, the Last Hope",SIR,"1,080"
+86644,Griselbrand,SIS,"1,080"
+91389,"Tajic, Legion's Valor",Y24,"1,080"
+66877,"Ghalta, Primal Hunger",RIX,720
+66921,"Angrath, the Flame-Chained",RIX,720
+66975,"Zacama, Primal Calamity",RIX,720
+67484,"Adeliz, the Cinder Wind",DOM,720
+68653,"Niv-Mizzet, Parun",GRN,720
+69641,"Domri, Anarch of Bolas",WAR,720
+69669,"Tamiyo, Collector of Tales",WAR,720
+70140,"Ghalta, Primal Hunger",RIX,720
+70324,"Syr Faren, the Hengehammer",ELD,720
+70332,"Yorvo, Lord of Garenbrig",ELD,720
+70338,"Garruk, Cursed Huntsman",ELD,720
+70529,"Heliod, Sun-Crowned",THB,720
+70587,"Thryx, the Sudden Storm",THB,720
+70728,Gallia of the Endless Dance,THB,720
+70735,"Polukranos, Unchained",THB,720
+71229,"Kogla, the Titan Ape",IKO,720
+71257,"Illuna, Apex of Wishes",IKO,720
+71955,"Azusa, Lost but Seeking",M21,720
+72115,"Inniaz, the Gale Force",JMP,720
+72461,"Ghalta, Primal Hunger",JMP,720
+75268,"Koma, Cosmos Serpent",KHM,720
+76558,"Rowan, Scholar of Sparks",STX,720
+76605,"Killian, Ink Duelist",STX,720
+77165,"Grazilaxx, Illithid Scholar",AFR,720
+78452,"Jadar, Ghoulcaller of Nephalia",MID,720
+78616,"Vadrik, Astral Archmage",MID,720
+79384,"Freyalise, Skyshroud Partisan",J21,720
+79661,"Hinata, Dawn-Crowned",NEO,720
+79672,"Raiyuu, Storm's Edge",NEO,720
+79674,Satoru Umezawa,NEO,720
+80165,"Giada, Font of Hope",SNC,720
+81840,"Miirym, Sentinel Wyrm",HBG,720
+82579,"Gix, Yawgmoth Praetor",BRO,720
+83492,"A-Rowan, Scholar of Sparks",STX,720
+83905,"Kaya, Intangible Slayer",ONE,720
+84185,"Crucias, Titan of the Waves",Y23,720
+84411,"Etali, Primal Conqueror",MOM,720
+84522,Hidetsugu and Kairi,MOM,720
+84907,"Merry, Esquire of Rohan",LTR,720
+84919,"Shadowfax, Lord of Horses",LTR,720
+85532,"Horobi, Death's Wail",MUL,720
+85575,"Reyav, Master Smith",MUL,720
+85637,"A-Raiyuu, Storm's Edge",NEO,720
+87117,A-Satoru Umezawa,NEO,720
+87383,"Anim Pakal, Thousandth Moon",LCI,720
+88094,Vendilion Clique,A25,720
+89221,"Voja, Jaws of the Conclave",MKM,720
+90302,Mythweaver Poq,Y24,720
+46669,"Avacyn, Angel of Hope",AVR,360
+47485,"Thalia, Guardian of Thraben",DKA,360
+50871,"Elesh Norn, Grand Cenobite",NPH,360
+55133,"Xenagos, God of Revels",BNG,360
+58317,"Narset, Enlightened Master",KTK,360
+62335,"Kalitas, Traitor of Ghet",OGW,360
+67156,Lyra Dawnbringer,DOM,360
+67400,"Valduk, Keeper of the Flame",DOM,360
+67448,"Marwyn, the Nurturer",DOM,360
+67452,"Multani, Yavimaya's Avatar",DOM,360
+67516,"Tatyova, Benthic Druid",DOM,360
+67978,"Lathliss, Dragon Queen",M19,360
+68052,"Goreclaw, Terror of Qal Sisma",M19,360
+68116,"Nicol Bolas, the Ravager",M19,360
+68614,"Aurelia, Exemplar of Justice",GRN,360
+68629,"Emmara, Soul of the Accord",GRN,360
+68674,"Vraska, Golgari Queen",GRN,360
+69450,"Vraska, Golgari Queen",GRN,360
+69512,"Narset, Parter of Veils",WAR,360
+69647,"Feather, the Redeemed",WAR,360
+69660,"Ral, Storm Conduit",WAR,360
+69678,"Angrath, Captain of Chaos",WAR,360
+69682,"Kaya, Bane of the Dead",WAR,360
+69787,"Ajani, Strength of the Pride",M20,360
+69821,"Sephara, Sky's Blade",M20,360
+69900,"Sorin, Imperious Bloodlord",M20,360
+69912,"Chandra, Awakened Inferno",M20,360
+70222,"Ayara, First of Locthwain",ELD,360
+70248,"Rankle, Master of Pranks",ELD,360
+70346,The Royal Scions,ELD,360
+70582,"Thassa, Deep-Dwelling",THB,360
+70636,"Anax, Hardened in the Forge",THB,360
+70696,"Nylea, Keen-Eyed",THB,360
+70720,"Atris, Oracle of Half-Truths",THB,360
+70722,"Calix, Destiny's Hand",THB,360
+71242,"Vivien, Monsters' Advocate",IKO,360
+71299,"Yorion, Sky Nomad",IKO,360
+71496,"Ayula, Queen Among Bears",MH1,360
+71541,The First Sliver,MH1,360
+71789,Basri Ket,M21,360
+71890,"Liliana, Waker of the Dead",M21,360
+72120,"Tinybones, Trinket Thief",JMP,360
+72175,"Isamaru, Hound of Konda",JMP,360
+72287,"Drana, Liberator of Malakir",JMP,360
+72402,"Lathliss, Dragon Queen",JMP,360
+73352,"Moraug, Fury of Akoum",ZNR,360
+73385,"Ashaya, Soul of the Wild",ZNR,360
+73438,"Linvala, Shield of Sea Gate",ZNR,360
+73444,"Omnath, Locus of Creation",ZNR,360
+73446,"Phylath, World Sculptor",ZNR,360
+73861,"Unesh, Criosphinx Sovereign",AKR,360
+74051,"Nicol Bolas, God-Pharaoh",AKR,360
+74073,"Samut, the Tested",AKR,360
+75050,"Halvar, God of Battle",KHM,360
+75155,"Valki, God of Lies",KHM,360
+75224,"Jorn, God of Winter",KHM,360
+75245,Tyvar Kell,KHM,360
+75246,"Vorinclex, Monstrous Raider",KHM,360
+75272,Niko Aris,KHM,360
+75275,"Sarulf, Realm Eater",KHM,360
+75695,"Chandra, Torch of Defiance",KLR,360
+75771,Dovin Baan,KLR,360
+76072,Captain Ripley Vance,MH2,360
+76476,Professor Onyx,STX,360
+76653,Velomachus Lorehold,STX,360
+76661,"Codie, Vociferous Codex",STX,360
+77008,"Chatterfang, Squirrel General",MH2,360
+77217,"Lolth, Spider Queen",AFR,360
+77256,Inferno of the Star Mounts,AFR,360
+77324,Bruenor Battlehammer,AFR,360
+77328,Gretchen Titchwillow,AFR,360
+77331,Krydle of Baldur's Gate,AFR,360
+77339,"Targ Nar, Demon-Fang Gnoll",AFR,360
+78595,"Katilda, Dawnhart Prime",MID,360
+78799,"Katilda, Dawnhart Martyr",VOW,360
+78820,"Thalia, Guardian of Thraben",VOW,360
+78932,"Toxrill, the Corrosive",VOW,360
+79373,"Davriel, Soul Broker",J21,360
+79483,"Jin-Gitaxias, Progress Tyrant",NEO,360
+79635,Kodama of the West Tree,NEO,360
+79947,"Rahilda, Wanted Cutthroat",Y22,360
+80313,Vivien on the Hunt,SNC,360
+80344,"Jetmir, Nexus of Revels",SNC,360
+80347,"Lagrella, the Magpie",SNC,360
+80357,"Ob Nixilis, the Adversary",SNC,360
+80858,"A-Omnath, Locus of Creation",ZNR,360
+81075,"A-Phylath, World Sculptor",ZNR,360
+81831,Catti-brie of Mithral Hall,HBG,360
+81837,Krydle of Baldur's Gate,HBG,360
+81841,"Minsc & Boo, Timeless Heroes",HBG,360
+81842,Nalia de'Arnise,HBG,360
+81845,"Prosper, Tome-Bound",HBG,360
+81846,"Raggadragga, Goreguts Boss",HBG,360
+81893,"A-Minsc & Boo, Timeless Heroes",HBG,360
+81918,A-Tyvar Kell,KHM,360
+81932,A-Bruenor Battlehammer,AFR,360
+82136,"Braids, Arisen Nightmare",DMU,360
+82198,"Squee, Dubious Monarch",DMU,360
+82253,"Ivy, Gleeful Spellthief",DMU,360
+82266,"Rith, Liberated Primeval",DMU,360
+82274,"Tatyova, Steward of Tides",DMU,360
+82502,"Myrel, Shield of Argive",BRO,360
+82670,"Gwenna, Eyes of Gaea",BRO,360
+82696,"Hajar, Loyal Bodyguard",BRO,360
+82697,"Harbin, Vanguard Aviator",BRO,360
+83081,"Laelia, the Blade Reforged",C21,360
+83710,"Elesh Norn, Mother of Machines",ONE,360
+83733,"Skrelv, Defector Mite",ONE,360
+83798,"Karumonix, the Rat King",ONE,360
+83838,"Koth, Fire of Resistance",ONE,360
+83875,"Nissa, Ascended Animist",ONE,360
+83886,"Thrun, Breaker of Silence",ONE,360
+83895,"Zopandrel, Hunger Dominus",ONE,360
+83902,Glissa Sunslayer,ONE,360
+83903,"Jor Kadeen, First Goldwarden",ONE,360
+84187,"Jarsyl, Dark Age Scion",Y23,360
+84189,"Raddic, Tal Zealot",Y23,360
+84338,"Rona, Herald of Invasion",MOM,360
+84398,Sheoldred,MOM,360
+84408,"Chandra, Hope's Beacon",MOM,360
+84452,Urabrask,MOM,360
+84506,Vorinclex,MOM,360
+84564,Zimone and Dina,MOM,360
+84565,Zurgo and Ojutai,MOM,360
+84710,"Frodo, Sauron's Bane",LTR,360
+84806,Witch-king of Angmar,LTR,360
+84876,Radagast the Brown,LTR,360
+84893,"Éowyn, Fearless Knight",LTR,360
+84894,"Faramir, Prince of Ithilien",LTR,360
+84897,Frodo Baggins,LTR,360
+84925,"Théoden, King of Rohan",LTR,360
+84983,"Gollum, Scheming Guide",LTR,360
+85078,"Nissa, Resurgent Animist",MAT,360
+85094,"Narset, Enlightened Exile",MAT,360
+85097,"Ob Nixilis, Captive Kingpin",MAT,360
+85477,Goro-Goro and Satoru,MOC,360
+85479,Slimefoot and Squee,MOC,360
+85519,"Anafenza, Kin-Tree Spirit",MUL,360
+85521,"Elesh Norn, Grand Cenobite",MUL,360
+85525,"Thalia, Guardian of Thraben",MUL,360
+85531,"Ayara, First of Locthwain",MUL,360
+85535,"Skithiryx, the Blight Dragon",MUL,360
+85542,"Valduk, Keeper of the Flame",MUL,360
+85545,"Goreclaw, Terror of Qal Sisma",MUL,360
+85551,"Atraxa, Praetors' Voice",MUL,360
+85552,"Atris, Oracle of Half-Truths",MUL,360
+85553,"Aurelia, the Warleader",MUL,360
+85561,"Imoti, Celebrant of Bounty",MUL,360
+85582,"Yorion, Sky Nomad",MUL,360
+86075,"Odric, Lunarch Marshal",SIR,360
+86085,"Thalia, Heretic Cathar",SIR,360
+86302,"Tamiyo, Field Researcher",SIR,360
+86371,"Avacyn, Angel of Hope",SIS,360
+86460,Ghalma the Shaper,Y23,360
+86606,"Emrakul, the Promised End",SIR,360
+86771,"Ashiok, Wicked Manipulator",WOE,360
+86793,"Lord Skitter, Sewer King",WOE,360
+86830,"Goddric, Cloaked Reveler",WOE,360
+86911,"Ash, Party Crasher",WOE,360
+86925,"Talion, the Kindly Lord",WOE,360
+86927,"Troyan, Gutsy Explorer",WOE,360
+87104,A-Krydle of Baldur's Gate,AFR,360
+87128,A-Krydle of Baldur's Gate,HBG,360
+87310,"Ojer Axonil, Deepest Might",LCI,360
+87339,"Ghalta, Stampede Tyrant",LCI,360
+87362,"Ojer Kaslem, Deepest Growth",LCI,360
+87381,Amalia Benavides Aguirre,LCI,360
+89098,"Agrus Kos, Spirit of Justice",MKM,360
+89100,"Anzrag, the Quake-Mole",MKM,360
+89220,"Tomik, Wielder of Law",MKM,360
+90358,"Fortune, Loyal Steed",OTJ,360
+90435,"Gisa, the Hellraiser",OTJ,360
+90455,"Tinybones, the Pickpocket",OTJ,360
+90479,"Magda, the Hoardmaster",OTJ,360
+90503,"Bristly Bill, Spine Sower",OTJ,360
+90551,"Ghired, Mirror of the Wilds",OTJ,360
+90557,"Kambal, Profiteering Mayor",OTJ,360
+90565,"Malcolm, the Eyes",OTJ,360
+90576,"Satoru, the Infiltrator",OTJ,360
+90772,"Admiral Brass, Unsinkable",LCC,360
+90773,"Clavileño, First of the Blessed",LCC,360
+91334,"A-Tatyova, Steward of Tides",DMU,360
+91387,"Emmara, Voice of the Conclave",Y24,360
+91482,"Stella Lee, Wild Card",OTC,360
+50873,"Jin-Gitaxias, Core Augur",NPH,-360
+59329,"Alesha, Who Smiles at Death",FRF,-360
+61645,"Ulamog, the Ceaseless Hunger",BFZ,-360
+62171,"Kozilek, the Great Distortion",OGW,-360
+66403,Admiral Beckett Brass,XLN,-360
+66677,"Zetalpa, Primal Dawn",RIX,-360
+66937,"Huatli, Radiant Champion",RIX,-360
+66945,"Kumena, Tyrant of Orazca",RIX,-360
+67106,"Karn, Scion of Urza",DOM,-360
+67174,"Shalai, Voice of Plenty",DOM,-360
+67176,"Teshar, Ancestor's Apostle",DOM,-360
+67434,"Grunn, the Lonely King",DOM,-360
+67494,Grand Warlord Radha,DOM,-360
+67496,"Hallar, the Firefletcher",DOM,-360
+67514,"Slimefoot, the Stowaway",DOM,-360
+68274,"Sarkhan, Dragonsoul",M19,-360
+68369,Firesong and Sunspeaker,DOM,-360
+68641,"Izoni, Thousand-Eyed",GRN,-360
+69295,"Dovin, Grand Arbiter",RNA,-360
+69314,"Kaya, Orzhov Usurper",RNA,-360
+69317,"Lavinia, Azorius Renegade",RNA,-360
+69340,Teysa Karlov,RNA,-360
+69342,"Zegana, Utopian Speaker",RNA,-360
+69453,"Ugin, the Ineffable",WAR,-360
+69550,Massacre Girl,WAR,-360
+69618,"Mowu, Loyal Companion",WAR,-360
+69635,"Ajani, the Greathearted",WAR,-360
+69673,"Tolsimir, Friend to Wolves",WAR,-360
+69681,"Huatli, the Sun's Heart",WAR,-360
+69685,"Saheeli, Sublime Artificer",WAR,-360
+69911,"Chandra, Acolyte of Flame",M20,-360
+69984,"Vivien, Arkbow Ranger",M20,-360
+70139,"Rienne, Angel of Rebirth",M20,-360
+70339,"Grumgully, the Generous",ELD,-360
+70422,"Oko, the Trickster",ELD,-360
+70463,"Syr Gwyn, Hero of Ashvale",ELD,-360
+70723,"Dalakos, Crafter of Wonders",THB,-360
+70770,"Ashiok, Sculptor of Fears",THB,-360
+71246,"Brokkos, Apex of Forever",IKO,-360
+71264,"Nethroi, Apex of Death",IKO,-360
+71281,"Vadrok, Apex of Thunder",IKO,-360
+71289,"Jegantha, the Wellspring",IKO,-360
+71298,"Umori, the Collector",IKO,-360
+71973,"Jolrael, Mwonvuli Recluse",M21,-360
+72079,"Rin and Seri, Inseparable",M21,-360
+72106,Emiel the Blessed,JMP,-360
+72128,"Sethron, Hurloon General",JMP,-360
+72133,Neyith of the Dire Hunt,JMP,-360
+72298,Ghoulcaller Gisa,JMP,-360
+73232,"Tazri, Beacon of Unity",ZNR,-360
+73238,"Charix, the Raging Isle",ZNR,-360
+73432,"Akiri, Fearless Voyager",ZNR,-360
+73435,"Grakmaw, Skyclave Ravager",ZNR,-360
+73442,"Nahiri, Heir of the Ancients",ZNR,-360
+73445,"Orah, Skyclave Hierophant",ZNR,-360
+73451,"Verazol, the Split Current",ZNR,-360
+73898,"Razaketh, the Foulblooded",AKR,-360
+73947,"Neheb, the Eternal",AKR,-360
+74047,The Locust God,AKR,-360
+74050,"Neheb, the Worthy",AKR,-360
+74076,The Scorpion God,AKR,-360
+75109,"Orvar, the All-Form",KHM,-360
+75157,"Varragoth, Bloodsky Sire",KHM,-360
+75263,"Kardur, Doomscourge",KHM,-360
+75267,"Koll, the Forgemaster",KHM,-360
+75269,"Maja, Bretagard Protector",KHM,-360
+75270,Moritte of the Frost,KHM,-360
+75271,"Narfi, Betrayer King",KHM,-360
+75277,"Svella, Ice Shaper",KHM,-360
+75280,"Vega, the Watcher",KHM,-360
+75638,"Padeem, Consul of Innovation",KLR,-360
+75770,"Depala, Pilot Exemplar",KLR,-360
+75821,Hope of Ghirapur,KLR,-360
+76160,"Lonis, Cryptozoologist",MH2,-360
+76542,"Blex, Vexing Pest",STX,-360
+76556,"Plargg, Dean of Chaos",STX,-360
+76568,"Valentin, Dean of the Vein",STX,-360
+76571,Beledros Witherbloom,STX,-360
+76600,Hofri Ghostforge,STX,-360
+76628,"Quintorius, Field Historian",STX,-360
+76635,"Rootha, Mercurial Artist",STX,-360
+77007,"Aeve, Progenitor Ooze",MH2,-360
+77068,"Chainer, Nightmare Adept",MH2,-360
+77323,Barrowin of Clan Undurr,AFR,-360
+77326,"Farideh, Devil's Chosen",AFR,-360
+77329,"Hama Pashar, Ruin Seeker",AFR,-360
+77332,"Minsc, Beloved Ranger",AFR,-360
+77336,"Shessra, Death's Whisper",AFR,-360
+78392,"Lier, Disciple of the Drowned",MID,-360
+78573,"Arlinn, the Pack's Hope",MID,-360
+78599,"Ludevic, Necrogenius",MID,-360
+78601,Old Stickfingers,MID,-360
+78609,"Slogurk, the Overslime",MID,-360
+79049,"Anje, Maid of Dishonor",VOW,-360
+79059,"Eruth, Tormented Prophet",VOW,-360
+79060,"Grolnok, the Omnivore",VOW,-360
+79062,"Kaya, Geist Hunter",VOW,-360
+79452,"Norika Yamazaki, the Poet",NEO,-360
+79478,Go-Shintai of Lost Wisdom,NEO,-360
+79499,The Reality Chip,NEO,-360
+79551,"Tatsunari, Toad Rider",NEO,-360
+79642,"Shigeki, Jukai Visionary",NEO,-360
+79678,"Tamiyo, Compleated Sage",NEO,-360
+79958,"Ishkanah, Broodmother",Y22,-360
+80263,"Jaxis, the Troublemaker",SNC,-360
+80328,"Cormela, Glamour Thief",SNC,-360
+80335,"Evelyn, the Covetous",SNC,-360
+80337,"Falco Spara, Pactweaver",SNC,-360
+80346,"Jinnie Fay, Jetmir's Second",SNC,-360
+80348,"Lord Xander, the Collector",SNC,-360
+80379,"Toluz, Clever Conductor",SNC,-360
+81201,"A-Lier, Disciple of the Drowned",MID,-360
+81209,"A-Narfi, Betrayer King",KHM,-360
+81211,"A-Vega, the Watcher",KHM,-360
+81285,Minthara of the Absolute,HBG,-360
+81828,Alaundo the Seer,HBG,-360
+81830,"Baba Lysaga, Night Witch",HBG,-360
+81832,"Gorion, Wise Mentor",HBG,-360
+81833,"Jan Jansen, Chaos Crafter",HBG,-360
+81834,"Kagha, Shadow Archdruid",HBG,-360
+81836,"Korlessa, Scale Singer",HBG,-360
+81843,"Neera, Wild Mage",HBG,-360
+81844,"Oji, the Exquisite Blade",HBG,-360
+81892,"A-Baba Lysaga, Night Witch",HBG,-360
+81910,"A-Nahiri, Heir of the Ancients",ZNR,-360
+81935,"A-Shessra, Death's Whisper",AFR,-360
+82053,"Karn, Living Legacy",DMU,-360
+82245,"Aron, Benalia's Ruin",DMU,-360
+82249,Bortuk Bonerattle,DMU,-360
+82252,"Garna, Bloodfist of Keld",DMU,-360
+82260,"Najal, the Storm Runner",DMU,-360
+82261,"Nemata, Primeval Warden",DMU,-360
+82268,"Rona, Sheoldred's Faithful",DMU,-360
+82276,"Tura Kennerüd, Skyknight",DMU,-360
+82277,"Uurg, Spawn of Turg",DMU,-360
+82280,"Zur, Eternal Schemer",DMU,-360
+82531,"Drafna, Founder of Lat-Nam",BRO,-360
+82624,"Mishra, Excavation Prodigy",BRO,-360
+82702,"Mishra, Tamer of Mak Fawa",BRO,-360
+82703,Queen Kayla bin-Kroog,BRO,-360
+82704,"Saheeli, Filigree Master",BRO,-360
+82707,"Tawnos, the Toymaker",BRO,-360
+82709,"Tocasia, Dig Site Mentor",BRO,-360
+82711,"Urza, Prince of Kroog",BRO,-360
+82722,"Liberator, Urza's Battlethopter",BRO,-360
+82846,"Ramos, Dragon Engine",BRR,-360
+83523,"Reezug, the Bonecobbler",Y23,-360
+83533,"Arvad, Weatherlight Smuggler",Y23,-360
+83771,"Tekuthal, Inquiry Dominus",ONE,-360
+83775,"Unctus, Grand Metatect",ONE,-360
+83849,"Slobad, Iron Goblin",ONE,-360
+83901,"Ezuri, Stalker of Spheres",ONE,-360
+83908,"Malcator, Purity Overseer",ONE,-360
+83929,"Graaz, Unstoppable Juggernaut",ONE,-360
+83965,"Rhuk, Hexgold Nabber",ONE,-360
+84190,"Richlau, Headmaster",Y23,-360
+84265,"Heliod, the Radiant Dawn",MOM,-360
+84356,"Ayara, Widow of the Realm",MOM,-360
+84492,Polukranos Reborn,MOM,-360
+84512,Baral and Kari Zev,MOM,-360
+84516,Drana and Linvala,MOM,-360
+84557,"Quintorius, Loremaster",MOM,-360
+84711,Gandalf the White,LTR,-360
+84719,Rosie Cotton of South Lane,LTR,-360
+84744,"Goldberry, River-Daughter",LTR,-360
+84759,Saruman the White,LTR,-360
+84767,The Watcher in the Water,LTR,-360
+84798,"Sauron, the Necromancer",LTR,-360
+84858,"Fangorn, Tree Shepherd",LTR,-360
+84873,Peregrin Took,LTR,-360
+84886,Arwen Undómiel,LTR,-360
+84888,"Bilbo, Retired Burglar",LTR,-360
+84889,"Butterbur, Bree Innkeeper",LTR,-360
+84890,"Denethor, Ruling Steward",LTR,-360
+84892,"Elrond, Master of Healing",LTR,-360
+84898,Galadriel of Lothlórien,LTR,-360
+84899,Gandalf the Grey,LTR,-360
+84901,"Gimli, Mournful Avenger",LTR,-360
+84902,Gwaihir the Windlord,LTR,-360
+84903,King of the Oathbreakers,LTR,-360
+84904,"Legolas, Counter of Kills",LTR,-360
+84906,"Mauhúr, Uruk-hai Captain",LTR,-360
+84908,The Mouth of Sauron,LTR,-360
+84909,Old Man Willow,LTR,-360
+84915,Saruman of Many Colors,LTR,-360
+84920,"Shagrat, Loot Bearer",LTR,-360
+84922,"Shelob, Child of Ungoliant",LTR,-360
+84926,Tom Bombadil,LTR,-360
+84927,Uglúk of the White Hand,LTR,-360
+85062,"Tazri, Stalwart Survivor",MAT,-360
+85091,"Kiora, Sovereign of the Deep",MAT,-360
+85095,"Nashi, Moon's Legacy",MAT,-360
+85096,"Niv-Mizzet, Supreme",MAT,-360
+85105,"Karn, Legacy Reforged",MAT,-360
+85118,"Orthion, Hero of Lavabrink",MOM,-360
+85478,Katilda and Lier,MOC,-360
+85529,"Jin-Gitaxias, Core Augur",MUL,-360
+85556,"Ezuri, Claw of Progress",MUL,-360
+85557,Firesong and Sunspeaker,MUL,-360
+85562,"Jegantha, the Wellspring",MUL,-360
+85568,"Lathiel, the Bounteous Dawn",MUL,-360
+85576,"Rona, Sheoldred's Faithful",MUL,-360
+85578,"Taigam, Ojutai Master",MUL,-360
+85579,Teysa Karlov,MUL,-360
+85580,"Umori, the Collector",MUL,-360
+86257,"Ishkanah, Grafwidow",SIR,-360
+86290,Gisa and Geralf,SIR,-360
+86300,"Sorin, Grim Nemesis",SIR,-360
+86473,"Rothga, Bonded Engulfer",Y23,-360
+86481,"Gyox, Brutal Carnivora",Y23,-360
+86488,"Vexyr, Ich-Tekik's Heir",Y23,-360
+86618,"Bruna, the Fading Light",SIR,-360
+86909,Agatha of the Vile Cauldron,WOE,-360
+86914,The Goose Mother,WOE,-360
+86915,"Greta, Sweettooth Scourge",WOE,-360
+86916,Hylda of the Icy Crown,WOE,-360
+86919,"Neva, Stalked by Nightmares",WOE,-360
+86921,"Rowan, Scion of War",WOE,-360
+86926,"Totentanz, Swarm Piper",WOE,-360
+86928,"Will, Scion of Peace",WOE,-360
+86930,Beluna Grandsquall,WOE,-360
+86984,"Syr Ginger, the Meal Ender",WOE,-360
+87380,"Akawalli, the Seething Tower",LCI,-360
+87382,The Ancient One,LCI,-360
+87384,Bartolomé del Presidio,LCI,-360
+87386,Caparocti Sunborn,LCI,-360
+87390,"Itzquinth, Firstborn of Gishath",LCI,-360
+87391,"Kellan, Daring Traveler",LCI,-360
+87393,"Kutzil, Malamet Exemplar",LCI,-360
+87397,The Mycotyrant,LCI,-360
+87398,"Nicanzil, Current Conductor",LCI,-360
+87401,"Saheeli, the Sun's Brilliance",LCI,-360
+87404,"Uchbenbak, the Great Mistake",LCI,-360
+89099,"Alquist Proft, Master Sleuth",MKM,-360
+89122,"Izoni, Center of the Web",MKM,-360
+89125,"Kellan, Inquisitive Prodigy",MKM,-360
+89127,"Kylox, Visionary Inventor",MKM,-360
+90560,"Kraum, Violent Cacophony",OTJ,-360
+90779,"Xolatoyac, the Smiling Flood",LCC,-360
+91346,"A-Uurg, Spawn of Turg",DMU,-360
+91357,"A-Karn, Living Legacy",DMU,-360
+91364,"A-Saheeli, Filigree Master",BRO,-360
+91367,"A-Mishra, Excavation Prodigy",BRO,-360
+91390,"Roalesk, Prime Specimen",Y24,-360
